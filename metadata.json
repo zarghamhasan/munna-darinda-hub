@@ -1,0 +1,6 @@
+{
+  "name": "Munna Darinda Team Hub",
+  "description": "Official portal and registry for the Munna Darinda Team at Patna Law College (BBA.LLB), founded by Harshvardhan and developed by Zargham Hasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
